@@ -1,0 +1,2 @@
+# Code-Layout-in-Adroid
+This one will be shown how to organize your views on the screen using different layouts. We use the application Block03 as an example. In this application, the upper 30% of the screen are occupied by a blue section which holds two buttons: a small button and all of the remaining space is used up by another button, a big button. Then below the blue section, we have nine buttons positioned on a rose compass which is displayed in the background.
